@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm justlakuu</h1>
 
 <p align="center">
-  <b>Software Developer · CAD tooling · Game experiments</b>
+  <b>Software Developer · I build things from scratch</b>
 </p>
 
 <p align="center">
-  I build things from scratch, usually to understand them properly.<br/>
   Sometimes they work. Sometimes they break.<br/>
   Either way, I make them better.
 </p>
@@ -16,36 +15,19 @@
 
 ---
 
-### Selected work
+### What I work on
 
 - **OpenCAD / MyCAD**  
-  A native parametric 3D CAD application written in C++20.  
-  It combines an OCCT geometry kernel, OpenGL rendering, an ImGui/GLFW interface, PlaneGCS sketch constraints, SQLite project storage, timeline-based modeling, live previews, export support, and automation hooks into a compact desktop CAD system.
+  A native parametric CAD application built in C++ with OCCT, OpenGL, ImGui, PlaneGCS, and SQLite.
 
 - **MakerCAD**  
-  A simplified CAD shell built on top of FreeCAD.  
-  It keeps FreeCAD's modeling backend, but wraps it in an isolated profile and a cleaner maker-focused UI layer with custom ribbon controls, workflow state handling, browser integration, themes, and session logging.
+  A cleaner FreeCAD-based workflow shell for makers, with an isolated profile and custom UI overlay.
 
 - **iceball-godot**  
-  An experimental rewrite of Iceball in Godot 4 that grew beyond the original porting idea into custom gameplay and engine-facing features.
+  An experimental Godot 4 rewrite of Iceball that grew into its own feature playground.
 
 ---
 
-### Community & operations
+### Background
 
-I also spent years around multiplayer communities, server administration, and live game-server operations.
-
-- Former administrator for **PostalSite.info** and the Postal 2 multiplayer community.
-- Co-ran **Surany**, a game server hosting/community project focused mostly on survival servers.
-- Operated and supported servers for Rust, Minecraft, Unturned, and Broke Protocol.
-- Managed Discord communities, moderation, player support, and day-to-day server coordination.
-
----
-
-### Focus
-
-- Native desktop tools
-- CAD workflow and geometry-driven software
-- C++ and Python tooling
-- Godot experiments
-- Debugging things until they explain themselves
+Former **PostalSite.info** administrator and co-runner of **SURAN.PL**, with experience around multiplayer server operations, Discord communities, and survival game servers.
