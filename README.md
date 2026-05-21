@@ -31,6 +31,17 @@
 
 ---
 
+### Community & operations
+
+I also have hands-on experience running online communities and multiplayer game server infrastructure.
+
+- Former administrator for **PostalSite.info** and the Postal 2 multiplayer community.
+- Co-ran **Surany**, a game server hosting/community project focused mostly on survival games.
+- Operated and supported servers for Rust, Minecraft, Unturned, and Broke Protocol.
+- Managed Discord communities, moderation workflows, player support, and day-to-day server operations.
+
+---
+
 ### Focus
 
 - Native desktop tools
