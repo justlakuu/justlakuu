@@ -1,12 +1,7 @@
 <h1 align="center">Hi, I'm justlakuu</h1>
 
 <p align="center">
-  <b>Software Developer · I build things from scratch</b>
-</p>
-
-<p align="center">
-  Sometimes they work. Sometimes they break.<br/>
-  Either way, I make them better.
+  <b>Software Developer · CAD tooling · Hobby game dev</b>
 </p>
 
 <p align="center">
