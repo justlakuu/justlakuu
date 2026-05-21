@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm justlakuu</h1>
 
 <p align="center">
-  <b>Software Developer · CAD tooling · Hobby game dev</b>
+  <b>Software Developer</b>
 </p>
 
 <p align="center">
